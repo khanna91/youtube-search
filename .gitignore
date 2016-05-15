@@ -1,0 +1,11 @@
+/node_modules
+/bower_components
+.idea
+npm-debug.log
+.DS_Store
+/public/css
+/public/fonts
+/public/images
+/public/js
+/public/bundle.js
+/public/bundle.js.map
